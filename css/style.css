@@ -9,3 +9,7 @@
 #h2color {
     background-color: pink;
 }
+
+html{
+        scroll-behavior:smooth;
+}
